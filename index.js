@@ -3,7 +3,7 @@ const mahalap = require("./maha-lap");
 const app = express();
 const port = 3000;
 
-app.get("/", (req, res) => res.send("Hello World!"));
+app.get("/", (req, res) => res.send("หวัดดี"));
 app.get("/namo", (req, res) => {
   const day = req.query.day;
   const stiry = req.query.stiry;
