@@ -1,0 +1,19 @@
+{
+  "name": "maha-lap",
+  "version": "1.0.0",
+  "description": "ทำนายตัวเลขจากความฝัน",
+  "main": "maha-lap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zzging/maha-lap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zzging/maha-lap/issues"
+  },
+  "homepage": "https://github.com/Zzging/maha-lap#readme"
+}
